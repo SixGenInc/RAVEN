@@ -1,6 +1,6 @@
 # SIXGEN PROPRIETARY
 
-Copyright(c) 2023 by SixGen Incorporated\
+Copyright(c) 2025 by SixGen Incorporated\
 All Rights Reserved.
 
 All information contained herein is, and remains\
